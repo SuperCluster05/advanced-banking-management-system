@@ -39,3 +39,79 @@ Full-stack banking system: Legacy Java Swing + Modern Spring Boot REST API
 
 ## 📋 Quick Start
 
+
+banking-management-system/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+│   ├── screenshots/
+│   │   ├── login-screen.png
+│   │   ├── transaction-menu.png
+│   │   ├── withdrawal-interface.png
+│   │   └── api-documentation.png
+│   ├── database/
+│   │   ├── schema.sql
+│   │   ├── sample-data.sql
+│   │   └── database-design.md
+│   ├── architecture/
+│   │   ├── system-architecture.md
+│   │   └── migration-strategy.md
+│   └── api/
+│       ├── postman-collection.json
+│       └── api-documentation.md
+├── legacy-swing-application/
+│   ├── src/
+│   │   └── bank/
+│   │       └── mgmt/
+│   │           ├── Signup1.java
+│   │           ├── Signup2.java
+│   │           ├── Signup4.java
+│   │           ├── Transactions.java
+│   │           ├── Withdraw.java
+│   │           └── Conn.java
+│   ├── resources/
+│   │   └── icon/
+│   │       └── atm.jpg
+│   ├── lib/
+│   │   └── mysql-connector-java.jar
+│   └── README.md
+├── spring-boot-backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── banking/
+│   │   │   │           ├── BankingApplication.java
+│   │   │   │           ├── config/
+│   │   │   │           ├── controller/
+│   │   │   │           ├── dto/
+│   │   │   │           ├── entity/
+│   │   │   │           ├── exception/
+│   │   │   │           ├── repository/
+│   │   │   │           ├── security/
+│   │   │   │           └── service/
+│   │   │   └── resources/
+│   │   │       └── application.properties
+│   │   └── test/
+│   ├── pom.xml
+│   └── README.md
+├── frontend/
+│   ├── react-banking-app/
+│   │   ├── public/
+│   │   ├── src/
+│   │   ├── package.json
+│   │   └── README.md
+│   └── README.md
+└── deployment/
+    ├── docker/
+    │   ├── Dockerfile
+    │   └── docker-compose.yml
+    ├── kubernetes/
+    │   ├── deployment.yaml
+    │   ├── service.yaml
+    │   └── configmap.yaml
+    └── scripts/
+        ├── deploy.sh
+      
+
