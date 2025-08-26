@@ -114,4 +114,8 @@ banking-management-system/
     └── scripts/
         ├── deploy.sh
       
+<img width="1400" height="978" alt="image" src="https://github.com/user-attachments/assets/bf3ea5fa-8b41-4d9d-803b-259f34032e04" />
+
+<img width="1059" height="747" alt="image" src="https://github.com/user-attachments/assets/3d7ccbde-d1a4-4e6c-928a-3b886a85fa9d" />
+
 
